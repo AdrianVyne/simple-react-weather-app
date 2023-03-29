@@ -1,27 +1,14 @@
-# Weather App
-Display weather forecast data for anywhere around the world using city names.
+# Simple React Weather App
 
-### Live Demo: <a href="https://lily3214.github.io/react-weather-app/" target="_blank" rel="nofollow">Weather App</a>
+This is a simple weather app built with ReactJS and the OpenWeatherMap API that displays the current weather forecast for a given location around the world.
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Lily3214/react-weather-app/blob/main/src/assets/weatherapp.jpg"><img src="https://github.com/Lily3214/react-weather-app/blob/main/src/assets/weatherapp.jpg" alt="image" style="max-width:100%"></a></p>
+## Features
 
+- Search for weather forecasts by city name or zip code.
+- Displays current weather conditions, temperature, humidity, and wind speed.
+- Responsive design that adapts to different screen sizes.
+- Uses modern web technologies including ReactJS, HTML5, and CSS3.
 
-# Features
-<li>
-Display current forecast data for a given location.
-  </li>
-  <li>
-Search cities worldwide.
-  </li>
-  <li>
-Responsive design.
-  </li>
-  
-# Built with
-  <li>
-ReactJs
-  </li>
-  <li>
-OpenWeatherMap API
-  </li>
+## Live Demo
 
+You can view a live demo of this project [here](https://adrianvyne.github.io/simple-react-weather-app/).
